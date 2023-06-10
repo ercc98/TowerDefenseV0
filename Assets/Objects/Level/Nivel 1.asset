@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5b36354b1422843a470b49afb3c2c3, type: 3}
+  m_Name: Nivel 1
+  m_EditorClassIdentifier: 
+  energy: 300
+  visibleName: Nivel 1
+  slug: Level1
+  enemyDataList:
+  - enemyGameObject: {fileID: 3205959376518584087, guid: 79f639cfdbfcaf241b8e03dba3af5e0a, type: 3}
+    EnemyCount: 10
+    SpawnTime: 1
+  initialCoins: 200
+  timePerGame: 20
