@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/[Dd]ebug/
+[Oo]bj/[Rr]elease/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Ee]xported[Oo]bj/
+Assets/AssetStoreTools*/
+
+# IDE specific
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash and temporary files
+*.stackdump
+*.pidb
+*.mdb
+*.opendb
+*.apk
+*.unitypackage
